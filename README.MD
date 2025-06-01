@@ -1,6 +1,6 @@
 # Super Trunfo - Comparação de Cartas
 
-Este projeto implementa a lógica de comparação de cartas do jogo Super Trunfo, com base em atributos numéricos como população, área, PIB, densidade populacional e PIB per capita.
+Este projeto implementa a lógica de comparação de cartas do jogo Super Trunfo, agora com interatividade! O jogador pode escolher o atributo para comparação entre duas cartas.
 
 ## Funcionalidades
 
@@ -15,10 +15,9 @@ Este projeto implementa a lógica de comparação de cartas do jogo Super Trunfo
 - Cálculo automático de:
   - Densidade populacional (População / Área)
   - PIB per capita (PIB / População)
-- Comparação de duas cartas com base em um atributo pré-definido no código.
-- Determinação da carta vencedora com base nas regras:
-  - Para todos os atributos, exceto densidade populacional, vence a carta com o maior valor.
-  - Para densidade populacional, vence a carta com o menor valor.
+- Menu interativo para escolha do atributo de comparação.
+- Comparação de duas cartas com base no atributo escolhido.
+- Determinação da carta vencedora ou empate.
 
 ## Como executar
 
